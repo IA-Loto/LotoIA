@@ -1,8 +1,9 @@
 streamlit==1.44.0
-tensorflow==2.20.0
+tensorflow
 pandas==2.2.2
 numpy==1.23.5
 requests==2.32.4
 streamlit-authenticator
 
 bcrypt
+
